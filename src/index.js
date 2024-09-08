@@ -6,7 +6,7 @@ async function displayLondon(){
     const london = await getCityData("london");
     updateDisplay(london);
 }
-
+//Test
 
 displayLondon();
 getInput();
