@@ -7,5 +7,6 @@ async function displayLondon(){
     updateDisplay(london);
 }
 
+
 displayLondon();
 getInput();
